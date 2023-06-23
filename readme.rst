@@ -3,12 +3,15 @@ Credentials and URL:
 ###################
 
 URl:  http://localhost/ci_test
-
+###################
 ADMIN:
+###################
 username: admin
 pass:     admin
 
+###################
 USER:
+###################
 username: user
 pass    : user
 
